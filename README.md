@@ -8,7 +8,7 @@ This project supports:
 - LLM-powered natural language queries
 - CSV, Excel, and JSON file formats
 
-🔗 **Live App:** [](https://vishleshak.streamlit.app/)  
+🔗 **Live App:** https://vishleshak.streamlit.app/  
 📁 **GitHub Repo:** https://github.com/mrityunjay5004/personal-ai-data-analyst
 
 ---
